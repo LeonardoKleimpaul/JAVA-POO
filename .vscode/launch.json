@@ -1,0 +1,147 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Main",
+      "request": "launch",
+      "mainClass": "Main",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exerc2.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exerc1.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exemplo2.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exemplo.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "ativ2.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "ativ1.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "encapsulamento.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exerc3.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exerc5.Principal",
+      "projectName": "aulasJava_fc54a5f"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exerc6.Principal",
+      "projectName": "aulasJava_72d756e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "exerc5.Principal",
+      "projectName": "aulasJava_72d756e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal",
+      "request": "launch",
+      "mainClass": "abstracao.Principal",
+      "projectName": "aulasJava_72d756e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal(1)",
+      "request": "launch",
+      "mainClass": "ativ1.Principal",
+      "projectName": "aulasJava_72d756e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal(2)",
+      "request": "launch",
+      "mainClass": "exerc1.Principal",
+      "projectName": "aulasJava_72d756e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal(3)",
+      "request": "launch",
+      "mainClass": "exerc2.Principal",
+      "projectName": "aulasJava_72d756e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal(4)",
+      "request": "launch",
+      "mainClass": "exerc3.Principal",
+      "projectName": "aulasJava_72d756e3"
+    },
+    {
+      "type": "java",
+      "name": "Launch Principal(5)",
+      "request": "launch",
+      "mainClass": "exerc4.Principal",
+      "projectName": "aulasJava_72d756e3"
+    }
+  ]
+}
