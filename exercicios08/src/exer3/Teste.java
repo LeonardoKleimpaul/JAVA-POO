@@ -14,9 +14,13 @@ public class Teste {
     System.out.println("\nValor absoluto de -10 = " + Math.abs(10));
 
     // 3.d)
+    double d = Math.max(42, 666);
+		System.out.println(d);
 
     // 3.e)
-
+    double e = Math.min(42, 666);
+		System.out.println(e)
+    
     // 3.f)
     System.out.println("\n4,9 arredondado para cima = " + Math.ceil(4.9));
 
