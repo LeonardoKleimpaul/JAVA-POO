@@ -1,0 +1,35 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExemploFinally",
+      "request": "launch",
+      "mainClass": "ExemploFinally",
+      "projectName": "tratamentoDeExcecoes_fcba246e"
+    },
+    {
+      "type": "java",
+      "name": "Launch PilhaDeChamadas",
+      "request": "launch",
+      "mainClass": "PilhaDeChamadas",
+      "projectName": "tratamentoDeExcecoes_fcba246e"
+    },
+    {
+      "type": "java",
+      "name": "Launch Problemas",
+      "request": "launch",
+      "mainClass": "problemas.Problemas",
+      "projectName": "tratamentoDeExcecoes_fcba246e"
+    }
+  ]
+}
