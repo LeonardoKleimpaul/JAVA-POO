@@ -1,3 +1,4 @@
+package problemas;
 import java.util.Scanner;
 
 public class ExemploFinally {
