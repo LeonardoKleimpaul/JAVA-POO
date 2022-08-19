@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch TestaExcecaoMenorDeIdade",
+      "request": "launch",
+      "mainClass": "excecoespersonalizada.TestaExcecaoMenorDeIdade",
+      "projectName": "tratamentoDeExcecoes_fcba246e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExemploPropagacao",
+      "request": "launch",
+      "mainClass": "excecoesnaoverificadas.ExemploPropagacao",
+      "projectName": "tratamentoDeExcecoes_fcba246e"
+    },
+    {
+      "type": "java",
+      "name": "Launch ExemploScanner",
+      "request": "launch",
+      "mainClass": "excecoesverifcadas.ExemploScanner",
+      "projectName": "tratamentoDeExcecoes_fcba246e"
+    },
+    {
+      "type": "java",
+      "name": "Launch CalculadoraTestes",
+      "request": "launch",
+      "mainClass": "excecoes.CalculadoraTestes",
+      "projectName": "tratamentoDeExcecoes_fcba246e"
+    },
+    {
+      "type": "java",
       "name": "Launch Current File",
       "request": "launch",
       "mainClass": "${file}"
