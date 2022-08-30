@@ -1,15 +1,12 @@
 {
-  "cSpell.words": [
-    "anotacoes",
-    "Anotacoes",
-    "opcao",
-    "preco",
-    "Televisao"
-  ],
+  "cSpell.words": ["anotacoes", "Anotacoes", "opcao", "preco", "Televisao"],
   "java.project.sourcePaths": [
     "herança",
     "encapsulamento/src",
     "abstracao/src/exerc1",
     "Polimorfismo/src/ativ1"
+  ],
+  "java.project.referencedLibraries": [
+    "/home/leo/bibliotecas/java/conectores/mysql-connector-java-8.0.30.jar"
   ]
 }
